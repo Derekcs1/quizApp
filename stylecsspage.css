@@ -1,0 +1,79 @@
+body{
+	background-color: powderblue;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	font-size:120%;
+	margin: right;
+	text-align: center;
+}
+
+
+#showAnswer1{
+	font-size:150%;
+	text-align: center;
+	margin: 100px;
+}
+
+#Answer1{
+	font-size:150%;
+	background-color: powderblue;
+	color:powderblue;
+}
+
+#showAnswer2{
+	font-size:150%;
+	text-align: center;
+	margin: 100px;
+}
+
+#Answer2{
+	font-size:150%;
+	background-color: powderblue;
+	color:powderblue;
+}
+
+#showAnswer3{
+	font-size:150%;
+	text-align: center;
+	margin: 100px;
+}
+
+#Answer3{
+	font-size:150%;
+	background-color: powderblue;
+	color:powderblue;
+}
+
+#showAnswer4{
+	font-size:150%;
+	text-align: center;
+	margin: 100px;
+}
+
+#Answer4{
+	font-size:150%;
+	background-color: powderblue;
+	color:powderblue;
+}
+
+#showAnswer5{
+	font-size:150%;
+	text-align: center;
+	margin: 100px;
+}
+
+#Answer5{
+	font-size:150%;
+	background-color: powderblue;
+	color:powderblue;
+}
+
+
+#directions{
+	font-size:120%;
+}
